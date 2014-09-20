@@ -1,0 +1,34 @@
+{
+  "name": "photo-album",
+  "authors": [
+    "Kenny Jackelen <kenny@kennyjackelen.com>"
+  ],
+  "description": "A photo album element including a slideshow view.",
+  "keywords": "polymer, web-components",
+  "main": "album-gallery.html",
+  "license": "MIT",
+  "homepage": "https://github.com/kennyjackelen/photo-album/",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests",
+    ".bowerrc"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.4.0 <1.0.0",
+    "polymer-test-tools": "Polymer/polymer-test-tools#>=0.4.0 <1.0.0",
+    "core-icons": "polymer/core-icons#~0.4.1",
+    "paper-fab": "polymer/paper-fab#~0.4.1",
+    "font-roboto": "polymer/font-roboto#~0.4.1"
+  },
+  "_release": "ac63f0ac67",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ac63f0ac67ddb973efc051e87e0403e25bcc8666"
+  },
+  "_source": "git://github.com/kennyjackelen/photo-album.git",
+  "_target": "master",
+  "_originalSource": "kennyjackelen/photo-album",
+  "_direct": true
+}
